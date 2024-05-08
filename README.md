@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Brunotlps
-- 👀 I'm interested in getting my first job as a Developer
-- 🌱 I’m currently learning Android and Back-end Developement 
-- 💞️ I’m looking to collaborate on spring boot open source projects
+- ✌🏾 Hi, my name is Bruno Teixeira Lopes, I'm 23 years old and I dream of becoming an Android Developer. I'm currently studying the Java and Kotlin languages, I'm passionate about the back-end but I'm studying to be Full-Stack and better adapt to the market.
 - 📫 www.linkedin.com/in/brunotlps
 
 
